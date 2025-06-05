@@ -2,7 +2,7 @@
 ¡Hola y bienvenido(a) a esta emocionante aventura en el mundo del desarrollo de aplicaciones móviles multiplataforma! Si estás aquí, es porque tienes la curiosidad y el deseo de construir apps increíbles que funcionen tanto en iOS como en Android con una única base de código. 
 
 
-<p align="center" style="background-color: #e0ffe0; padding: 10px; border-radius: 5px; font-weight:bold">
+<p align="center">
   ¡Estás en el lugar correcto!
 </p>
 
@@ -39,6 +39,6 @@ Y mucho más... ¡Exploraremos librerías populares, buenas prácticas y patrone
 - Ganas de aprender y construir.
 
 ¡Prepárate para construir tus propias aplicaciones móviles y dar vida a tus ideas! Si tienes alguna pregunta o encuentras algún obstáculo, no dudes en revisar la documentación oficial o buscar en la comunidad.
-<p align="center" style="background-color: #e0ffe0; padding: 10px; border-radius: 5px; font-weight:bold; font-size:2rem">
-  ¡A codificar! 🚀
-</p>
+
+# ¡A codificar! 🚀
+
