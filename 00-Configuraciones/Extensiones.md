@@ -1,7 +1,9 @@
 # Extensiones de VS Code para el Curso de Programación Móvil
 
 Este documento enumera las extensiones de Visual Studio Code recomendadas para el curso de Programación Móvil, con énfasis en React Native. Instalar estas extensiones mejorará significativamente la experiencia de desarrollo, proporcionando autocompletado, depuración, formateo de código y linting.
-
+<p align="center">
+Menos tecleo, más agilidad codeando.
+</p>
 ## Extensiones Esenciales:
 
 Asegúrate de tener las siguientes extensiones instaladas en tu VS Code:
